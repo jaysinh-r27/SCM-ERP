@@ -14,7 +14,7 @@
             width: 100%;
             max-width: 800px;
             margin: 0 auto;
-            padding: 20px;
+            padding: 2px;
             border: 2px solid #000;
         }
 
